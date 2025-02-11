@@ -3,6 +3,15 @@
 ## 🚀 Comment
 FolderPro is a file manager application that allows users to categorize, organize, share their files.
 
+## 🚀 Features
+
+✅ **File Management** – Pick, organize, and share files  
+✅ **State Management** – Uses BLoC pattern for better structure  
+✅ **Cloud & Local Storage** – Firebase + Hive integration  
+✅ **Secure File Encryption** – Uses AES encryption with `encrypt` package  
+✅ **Multi-language Support** – Integrated with `easy_localization`  
+✅ **Navigation & Dependency Injection** – Uses `auto_route` and `get_it` 
+
 ## 📷 Screenshots
 <p align="center">
   <img src="screenshot1.png" width="300" height="600">
@@ -24,7 +33,3 @@ FolderPro is a file manager application that allows users to categorize, organiz
     <img src="screenshot9.png" width="300" height="600">
 </p>
 
-## 🔧 Setup
-```sh
-flutter pub get
-flutter run
