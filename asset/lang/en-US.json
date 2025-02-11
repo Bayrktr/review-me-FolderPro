@@ -1,0 +1,121 @@
+{
+  "general": {
+    "settings": "Settings",
+    "save": "Save",
+    "cancel": "Cancel",
+    "okey": "Okay",
+    "edit": "Edit",
+    "delete": "Delete",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "add": "Add",
+    "share": "Share",
+    "addFavorite": "Add to Favorite",
+    "home": "Home",
+    "files": "Files",
+    "cloud": "Cloud",
+    "seeAll": "See All"
+  },
+  "settings": {
+    "theme": "Theme"
+  },
+  "errors": {
+    "nullErrorMessage": "",
+    "folderAlreadyExists": "This folder already exists",
+    "anUnexpectedProblem": "An unexpected problem occurred"
+  },
+  "validate": {
+    "directoryNameCannotEmpty": "Directory name cannot be empty or only spaces",
+    "thereIsAnotherDirectoryWithThisName": "There is another directory with this name"
+  },
+  "home": {
+    "directorys": "Directorys",
+    "directoryDeletedSuccessfully": "Directory deleted successfully",
+    "layout": "Layout",
+    "asSymbol": "As symbol",
+    "asList": "As list",
+    "searchFolder": "Search folder",
+    "searchFile": "Search file",
+    "internalStorage": "Internal Storage",
+    "cloudStorage": "Cloud Storage"
+
+  },
+  "favorites": {
+    "favorites": "Favorites",
+    "alreadyAddedFavorite": "Already added to favorites",
+    "addedFavorite": "Added to favorites",
+    "removeFromFavorites": "Remove from favorites",
+    "removedFromFavorites": "Removed from favorites",
+    "recentFiles": "Recent Files"
+
+  },
+  "directoryAdd": {
+    "directoryAdd": "Add directory",
+    "fileTypeNotSelected": "File type not selected"
+  },
+  "pdfAdd": {
+    "pdfAdd": "Add PDF",
+    "fileWasNotAddedOrIncorrectly": "File was not added or was added incorrectly",
+    "thereIsAnotherPdfWithName": "There is another PDF with this name",
+    "select": "Select",
+    "fileNotSelected": "File not selected",
+    "fileSelected": "File selected",
+    "folderIsNotCompatible": "Folder is not compatible with this file type"
+  },
+  "editDirectory": {
+    "editDirectory": "Edit directory",
+    "pdfDeletedSuccessfully": "PDF deleted successfully"
+  },
+  "editFile": {
+    "editFile": "Edit {}"
+  },
+  "editPdf": {
+    "thereIsAnotherPdfWithThisName": "There is another pdf with this name"
+  },
+  "customPdfView": {
+    "errorWhileLoadingPdf": "An error occurred while loading the PDF"
+  },
+  "openPdf": {
+    "viewPdf": "View PDF",
+    "enterTextToSearch": "Enter text to search"
+  },
+  "login": {
+    "signIn": "SignIn",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "emailAdress": "Email Address",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "keepMeSignIn": "Keep me signed in",
+    "login": "Login",
+    "orSignInWith": "or sign in with",
+    "continueWithGoggle": "Continue with Google",
+    "createAnAccount": "Create an account",
+    "emailAdressNotCorrectFormat": "Email address is not in the correct format",
+    "logout": "LogOut",
+    "editMyProfile": "Edit my Profile"
+
+
+  },
+  "register": {
+    "createAnAccount": "Create an Account",
+    "name": "Name",
+    "password": "Password",
+    "byContinuingYouAgreeToOur": "By continuing, you agree to our",
+    "termsOfService": "terms of service",
+    "or": "or",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "signInHere": "Sign in here",
+    "signUp": "Sign up"
+
+  },
+  "emailVerification": {
+    "weSentYouVerificationEmail" : "We've sent you a verification email, please check your inbox and follow the instructions to verifiy your accout",
+    "thankYouForSigningUp": "Thank you for signing up with us!",
+    "congratulations": "Congratulations!"
+
+  }
+}
+
+

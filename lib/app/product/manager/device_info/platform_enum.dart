@@ -1,0 +1,4 @@
+enum PlatformEnum {
+  IOS,
+  ANDROID,
+}

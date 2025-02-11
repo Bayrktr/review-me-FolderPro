@@ -1,0 +1,113 @@
+{
+  "general": {
+    "settings": "Ayarlar",
+    "save": "Kaydet",
+    "cancel": "Cancel",
+    "okey": "Tamam",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "next": "Sıradaki",
+    "previous": "Önceki",
+    "search": "Ara",
+    "add": "Ekle",
+    "share": "Paylaş",
+    "addFavorite": "Favorilere Ekle",
+    "home": "Ev",
+    "files": "Dosyalar",
+    "cloud": "Bulut",
+    "seeAll": "Hepsini Gör"
+  },
+  "settings": {
+    "theme": "Tema"
+  },
+  "errors": {
+    "nullErrorMessage": "",
+    "folderAlreadyExists": "Bu klasör zaten mevcut",
+    "anUnexpectedProblem": "Beklenmeyen bir sorun oluştu"
+  },
+  "validate": {
+    "directoryNameCannotEmpty": "Klasör adı boş veya yalnızca boşluk olamaz",
+    "thereIsAnotherDirectoryWithThisName": "Bu isme sahip başka bir klasör var"
+  },
+  "home": {
+    "directorys": "Klasörler",
+    "directoryDeletedSuccessfully": "Klasör başarıyla silindi",
+    "layout": "Düzen",
+    "asSymbol": "Simge olarak",
+    "asList": "Liste olarak",
+    "searchFolder": "Klasör ara",
+    "searchFile": "Dosya ara",
+    "internalStorage": "Dahili Depolama",
+    "cloudStorage": "Bulut Depolama"
+  },
+  "favorites": {
+    "favorites": "Favoriler",
+    "alreadyAddedFavorite": "Zaten favorilere eklenmiş",
+    "addedFavorite": "Favorilere eklendi",
+    "removeFromFavorites": "Favorilerden çıkar",
+    "removedFromFavorites": "Favorilerden çıkarıldı",
+    "recentFiles": "Geçmiş Dosyalar"
+  },
+  "directoryAdd": {
+    "directoryAdd": "Klasör ekle",
+    "fileTypeNotSelected": "Dosya tipi seçilmedi"
+  },
+  "pdfAdd": {
+    "pdfAdd": "Pdf ekle",
+    "fileWasNotAddedOrIncorrectly": "Dosya eklenmedi veya yanlış eklenmiş",
+    "thereIsAnotherPdfWithName": "Bu isimde başka bir pdf var",
+    "select": "Seç",
+    "fileNotSelected": "Dosya seçilmedi",
+    "fileSelected": "Dosya seçildi",
+    "folderIsNotCompatible": "Klasor bu dosya tipi ile uyumlu değil"
+  },
+  "editDirectory": {
+    "editDirectory": "Klasörü Düzenle",
+    "pdfDeletedSuccessfully": "Pdf başarıyla silindi"
+  },
+  "editFile": {
+    "editFile": "{} Düzenle"
+  },
+  "editPdf": {
+    "thereIsAnotherPdfWithThisName": "Bu isme sahip başka bir pdf var"
+  },
+  "customPdfView": {
+    "errorWhileLoadingPdf": "An error occurred while loading the pdf"
+  },
+  "openPdf": {
+    "viewPdf": "Pdf görüntüle",
+    "enterTextToSearch": "Aranacak metni girin\n"
+  },
+  "login": {
+    "signIn": "Üye ol",
+    "email": "Email",
+    "phoneNumber": "Telefon",
+    "emailAdress": "Email Adresi",
+    "password": "Şifre",
+    "forgotPassword": "Şifremi Unuttum?",
+    "keepMeSignIn": "Oturumu Açık Bırak",
+    "login": "Giriş",
+    "orSignInWith": "veya şu şekilde giriş yapın",
+    "continueWithGoggle": "Google ile Devam Et",
+    "createAnAccount": "Hesap Oluştur",
+    "emailAdressNotCorrectFormat": "Email adresi doğru formatta değil",
+    "logout": "Çıkış",
+    "editMyProfile": "Profilimi Düzenle"
+  },
+  "register": {
+    "createAnAccount": "Hesap Oluştur",
+    "name": "İsim",
+    "password": "Şifre",
+    "byContinuingYouAgreeToOur": "Devam ederek şunları kabul etmiş olursunuz",
+    "termsOfService": "hizmet şartları",
+    "or": "ya da",
+    "alreadyHaveAnAccount": "Zaten bir hesaba sahip misin?",
+    "signInHere": "Burdan giriş yap",
+    "signUp": "Kayıt ol"
+  },
+  "emailVerification": {
+    "weSentYouVerificationEmail": "size bir doğrulama e-postası gönderdik. lütfen gelen kutunuzu kontrol edin ve hesabınızı doğrulamak için talimatları izleyin.",
+    "thankYouForSigningUp": "Bize kaydolduğunuz için teşekkür ederiz!",
+    "congratulations": "Tebrikler!"
+  }
+}

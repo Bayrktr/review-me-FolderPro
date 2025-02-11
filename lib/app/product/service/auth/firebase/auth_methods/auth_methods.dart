@@ -1,0 +1,4 @@
+enum AuthMethods{
+  email,
+  google,
+}
